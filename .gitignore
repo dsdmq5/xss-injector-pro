@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+
+# Reports (generated output)
+*.html
+*.pdf
+xss_scan_report.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Old bundled copy
+xss_scanner_complete/
+xss_scanner_complete.zip
+
+# Kiro
+.kiro/
