@@ -5,7 +5,7 @@ A comprehensive tool for detecting all types of Cross-Site Scripting vulnerabili
 Features: Context-aware analysis, WAF detection/bypass, DOM XSS, Stored XSS,
            Blind XSS, Parameter discovery, Confidence scoring, Adaptive rate limiting.
 
-Author: Ethical Hacking Tool
+Author: Abdulrhman Alhendi, Bekkari, Amr
 Purpose: Educational and authorized security testing only
 """
 
